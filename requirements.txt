@@ -1,0 +1,5 @@
+datasets==2.14.5
+tenacity==8.2.3
+torch==1.13.1+cu117
+tqdm==4.62.3
+transformers==4.35.0.dev0
