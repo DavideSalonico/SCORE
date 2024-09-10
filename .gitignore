@@ -1,7 +1,6 @@
 *.sh
 predictions/
 checkpoint/
-data/
 *.tmp
 */bak/
 logs/*/

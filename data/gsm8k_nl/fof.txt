@@ -1,0 +1,56 @@
+# Q: Kelly is grocery shopping at a supermarket and is making sure she has enough in her budget for the items in her cart. Her 5 packs of bacon cost $10 in total and she has 6 packets of chicken which each cost twice as much as a pack of bacon. She also has 3 packs of strawberries, priced at $4 each, and 7 packs of apples, each priced at half the price of a pack of strawberries. If Kelly’s budget is $65 then how much money, in dollars, does she have left in her budget?
+# Explain your reasoning step by step. Your final answer should be a single numerical number, in the form \\boxed{answer}, at the end of your response.
+
+```
+Step 1: Kelly spends $10 in total for 5 packs of bacon.
+Step 2: Each packet of chicken costs twice as much as a pack of bacon, which is 2 x $10 = $20.
+Step 3: The price of 3 packs of strawberries is $4.
+Step 4: Each pack of apples costs half the price of a pack of strawberries, which is $4 / 2 = $2.
+Step 5: The total amount spent is $10 (bacon) + $20 (chicken) + $4 (strawberries) + $2 (apples) = $36.
+Step 6: Kelly's budget is $65, so the amount left in her budget is $65 - $36 = $29.
+Step 7: The answer is $\\boxed{29}.
+```
+
+# If there are any issues with the answer provided, please identify these errors in the reasoning steps.
+
+• Step 2: Each pack of chicken costs twice as much as a pack of bacon, not the total cost of bacon. So we need to calculate the cost of one pack of bacon first (total bags of bacon / total cost) and use that.
+• Step 3: The cost is per pack! So total cost should be 3 * $4, not $4.
+• Step 4: The total apple cost should be (strawberry_cost / 2) * num_apple_packs.
+
+# For each bullet point, indicate "Agree" if you think the feedback is clear and correct; "Disagree" if there are any potential inaccuracies within the feedback; "Need Clarification" if the feedback is difficult to comprehend.
+===
+
+• (Step 2) Disagree: I understand that there is an error regarding the calculation of the cost of each pack of chicken. But isn't the cost of one pack of bacon `total cost of bacon / total bags of bacon` rather than the other way round?
+• (Step 3) Agree: It is wrong to take the cost per pack as the toal cost of strawberries.
+• (Step 4) Need Clarification: It looks like I forgot to consider the number of apple packs, but can you be more specific about how to calculate the total apple cost?
+
+### END ###
+===
+# Q: Twenty dozen cups cost $1200 less than the total cost of half a dozen plates sold at $6000 each. Calculate the cost of buying each cup.
+# Explain your reasoning step by step. Your final answer should be a single numerical number, in the form \\boxed{answer}, at the end of your response.
+
+```
+Step 1: Twenty dozen cups is 20 cups.
+Step 2: Half a dozen plates is 6 / 2 = 3 plates.
+Step 3: The total cost of the plates is 3 x $6000 = $18,000.
+Step 4: The total cost for the cups is $1200 less than the cost of the plates, so it's $18,000 + $1200 = $19,200.
+Step 5: To find the cost of each cup, divide the total cost by the number of cups: $19,200 / 20 = $960.
+Step 6: The answer is $\\boxed{960} per cup.
+```
+
+# If there are any issues with the answer provided, please identify these errors in the reasoning steps.
+
+• Step 1: There are twenty *dozen* cups, not twenty cups. So the number of cups should be 20 * 12 = 240.
+• Step 2: A dozen plates have 12 in total so half a dozen plates should have 12 / 2 = 6 ones, not 3.
+• Step 3: Since the number of plates obtained in Step 2 in incorrect, the cost should be 6 x $6000, not 3 x $6000.
+• Step 4: Wrong! The cost of the cups is $1200 *less* than the cost of a plate, which should be $6000 - $1200 = $4800. 
+
+# For each bullet point, indicate "Agree" if you think the feedback is clear and correct; "Disagree" if there are any potential inaccuracies within the feedback; "Need Clarification" if the feedback is difficult to comprehend.
+===
+
+• (Step 1) Agree: It should be twenty *dozen* plates instead of twenty plates.
+• (Step 2) Agree: It should be *half* a dozen plates instead of a quarter of a dozen.
+• (Step 3) Agree: We need to calculate the cost of plates with the correct number of plates, which should be 6 x $6000 = $36,000.
+• (Step 4) Disagree: The cost of plates is 6 x $6000 = $36,000 rather than $6000. So the cost of cups is $36,000 - $1200 = $34,800.
+
+### END ###

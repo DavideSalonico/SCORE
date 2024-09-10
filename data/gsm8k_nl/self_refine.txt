@@ -1,0 +1,47 @@
+Q: Betty is saving money for a new wallet which costs $100. Betty has only half of the money she needs. Her parents decided to give her $15 for that purpose, and her grandparents twice as much as her parents. How much more money does Betty need to buy the wallet?
+
+Solution:
+Step 1: Betty needs $100 to buy the wallet.
+Step 2: Her parents gave her $15, which is half of the remaining amount.
+Step 3: Her grandparents gave her twice as much as her parents, which is 2 x $15 = $30.
+Step 4: The total amount of money Betty has now is $15 + $30 = $45.
+Step 5: The difference between the amount she needs and the amount she has is $100 - $45 = $55.
+Step 6: Betty still needs $55 to buy the wallet.
+Step 7: The answer is \\boxed{$55}.
+
+Does the solution contains any errors? If yes, please identify the first error step in the solution, and provide feedback that helps correct the error. Then refine your reasoning based on the feedback. Your final answer should be a single numerical number, in the form \\boxed{answer}. End your response with [END].
+===
+Feedback:
+Step 2: This is incorrect. Betty's parents gave her $15, but it's not necessarily half of the remaining amount. The question states that Betty has only half of the money she needs, not half of the remaining amount after her parents' contribution.
+
+Correction:
+Step 1: Betty needs $100 to buy the wallet.
+Step 2: She already has $50, as it is given that she has half the amount necessary.
+Step 3: Her parents gave her an additional $15, and her grandparents gave her twice as much as her parents, which is 2 x $15 = $30.
+Step 4: So, along with the money she already had, she now has a total of $50 + $15 + $30 = $95.
+Step 5: The difference between the amount she needs and the amount she already has is $100 - $95 = $5.
+Step 6: Hence, Betty still needs $5 to buy the wallet.
+Step 7: The corrected answer is \\boxed{$5}. [END]
+===
+Q: Maria wants to paint a picture and needs some tools to do that. She wants to buy a set of brushes for $20 and some canvas for three times more than the brushes. The paint costs Maria $8 per liter, and she needs at least 5 liters. How much money will she earn on the painting if she will be able to sell it for $200?
+
+Solution:
+Step 1: Maria wants to buy a set of brushes for $20 and some canvas for three times more than the brushes.
+Step 2: The cost of the canvas is three times the cost of the brushes, so the cost of the canvas is 3 x $20 = $60.
+Step 3: Maria needs at least 5 liters of paint, and the cost of the paint is $8 per liter, so the total cost of the paint is 5 x $8 = $40.
+Step 4: The total cost of the materials Maria needs is $60 + $40 = $100.
+Step 5: If Maria sells the painting for $200, she will earn $200 - $100 = $100.
+Step 6: The answer is \\boxed{100}.
+
+Does the solution contains any errors? If yes, please identify the first error step in the solution, and provide feedback that helps correct the error. Then refine your reasoning based on the feedback. Your final answer should be a single numerical number, in the form \\boxed{answer}. End your response with [END].
+===
+Feedback:
+Step 4: This step adds the calculated costs of canvas and paint, but it's incorrect. The correct calculation should include the cost of brushes as well, making the total cost $20 (brushes) + $60 (canvas) + $40 (paint) = $120.
+
+Correction:
+Step 1: Maria wants to buy a set of brushes for $20 and some canvas for three times more than the brushes.
+Step 2: The cost of the canvas is three times the cost of the brushes, so the cost of the canvas is 3 x $20 = $60.
+Step 3: Maria needs at least 5 liters of paint, and the cost of the paint is $8 per liter, so the total cost of the paint is 5 x $8 = $40.
+Step 4: The total cost of the materials Maria needs is $20 (brushes) + $60 (canvas) + $40 (paint) = $120.
+Step 5: If Maria sells the painting for $200, she will earn $200 - $120 = $80.
+Step 6: The answer is \\boxed{80}. [END]

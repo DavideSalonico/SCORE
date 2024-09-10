@@ -1,0 +1,38 @@
+Q: The sum of two numbers is 6. The difference of their squares is 12. What is the positive difference of the two numbers?
+Explain your reasoning step by step. Your final answer should be a single numerical number, in the form \\boxed{answer}. End your response with [END].
+===
+Step 1: Call the two numbers $x$ and $y$. 
+Step 2: We are given that $x+y = 6$ and $x^2 - y^2 = 12$. 
+Step 3: $x^2 - y^2$ factors into $(x+y)(x-y)$. 
+Step 4: We can substitute in for $x+y$, giving $6(x-y) = 12$.
+Step 5: $x-y = \boxed{2}$, so the answer is \\boxed{2}. [END]
+===
+Q: Which integer is closest to the cube root of 100?
+Explain your reasoning step by step. Your final answer should be a single numerical number, in the form \\boxed{answer}. End your response with [END].
+===
+Step 1: Either 4 or 5 is closest to $\sqrt[3]{100}$, since $4^3=64$ and $5^3=125$.  
+Step 2: Since $4.5^3=91.125<100$, $\sqrt[3]{100}$ is closer to $\boxed{5}$ than to 4.
+Step 3: The answer is \\boxed{5}. [END]
+===
+Q: A scale drawing of a park shows that one inch represents 800 feet. A line segment in the drawing that is 4.75 inches long represents how many feet?
+Explain your reasoning step by step. Your final answer should be a single numerical number, in the form \\boxed{answer}. End your response with [END].
+===
+Step 1: Each inch of the 4.75-inch line segment represents 800 feet. 
+Step 2: So the whole line segment represents $4.75\times800=\frac{19}{4}\cdot800=19\cdot200=\boxed{3800}$ feet.
+Step 3: The answer is \\boxed{3800}. [END]
+===
+Q: How many multiples of 10 are between 9 and 101?
+Explain your reasoning step by step. Your final answer should be a single numerical number, in the form \\boxed{answer}. End your response with [END].
+===
+Step 1: Multiples of 10 are numbers that can be expressed as $10n$, where n is an integer.
+Step 2: The smallest multiple of 10 greater than 9 is 10 (where $n=1$).
+Step 3: The largest multiple of 10 less than 101 is 100 (where $n=10$).
+Step 4: We can find the number of multiples of 10 between 10 and 100 by listing them: 10, 20, 30, ..., 100.
+Step 5: Counting, we get: $10, 20, 30, 40, 50, 60, 70, 80, 90, 100$, which gives us 10 multiples.
+Step 6: Thus, there are $\boxed{10}$ multiples of 10 between 9 and 101.
+Step 7: The answer is \\boxed{10}. [END]
+===
+Q: What is the least positive three-digit multiple of 7?
+Explain your reasoning step by step. Your final answer should be a single numerical number, in the form \\boxed{answer}. End your response with [END].
+===
+
