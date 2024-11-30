@@ -5,7 +5,7 @@ import torch
 from collections import Counter
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 
-hf_token = os.environ.get("HF_TOKEN") 
+hf_token = "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"
 TASK_LIST = ["gsm8k", "gsm8k_nl", "csqa", "ld", "svamp", "math", "riddlesense", "qasc"]
 MODEL_LIST = ["meta-llama/Llama-2-13b-chat-hf", "google/gemma-7b-it", "meta-llama/Llama-2-7b-chat-hf", "mistralai/Mistral-7B-Instruct-v0.2"]
 
