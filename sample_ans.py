@@ -6,6 +6,7 @@ import random
 import datetime
 from copy import deepcopy
 import transformers
+from transformers import GemmaTokenizer
 import torch
 import argparse
 from datasets import load_dataset
